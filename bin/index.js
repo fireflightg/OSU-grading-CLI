@@ -101,7 +101,7 @@ testrubric.addrubric(argv.addtest)
 // });
 
 // Your OpenAI API key (replace "your-api-key" with your actual API key)
-const apiKey = "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";
+;
 
 
 import OpenAI from 'openai';
