@@ -1,5 +1,5 @@
 
-# OSU Project Grader
+# OSU AI Project Grader
 
 OSU Project Grader is a command-line tool designed to facilitate the grading of projects by automating the compilation, testing, and evaluation of Java code. It utilizes various libraries such as `rimraf`, `chalk`, `boxen`, `figlet`, `yargs`, and others to provide a user-friendly interface and efficient grading process.
 
