@@ -62,10 +62,11 @@ grad -d
 ## Additional Information
 
 For more detailed information, troubleshooting, and custom configurations, visit our [website](https://your-website.com).
+For more info about me check out my portfolio at [saahibmohammed.com](https://www.saahibmohammed.com/).
 
 ## Video Tutorial
 
-For a comprehensive guide on how to use the OSU Project Grader, please refer to our [video tutorial](https://your-video-link.com).
+For a comprehensive guide on how to use the OSU Project Grader, please refer to our [video tutorial](https://github.com/fireflightg/OSU-grading-CLI/raw/main/usage_video.mp4).
 
 ## Contributing
 
