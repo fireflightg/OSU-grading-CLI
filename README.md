@@ -62,7 +62,7 @@ grad -d
 ## Additional Information
 
 For more detailed information, troubleshooting, and custom configurations, visit our [website](https://your-website.com).
-For more info about me check out my portfolio at [saahibmohammed.com](https://www.saahibmohammed.com/).
+For more info about me check out my portfolio [here](https://www.saahibmohammed.com/).
 
 ## Video Tutorial
 
