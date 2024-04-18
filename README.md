@@ -1,16 +1,16 @@
-
 # OSU AI Project Grader
 
 OSU Project Grader is a command-line tool designed to facilitate the grading of projects by automating the compilation, testing, and evaluation of Java code. It utilizes various libraries such as `rimraf`, `chalk`, `boxen`, `figlet`, `yargs`, and others to provide a user-friendly interface and efficient grading process.
 
 ## Features
 
-- Automatic download of project dependencies.
-- Compilation and execution of Java test cases.
-- Integration with OpenAI for advanced code analysis and grading.
+- Automatic download of project dependencies using `axios` for a more reliable and flexible fetching process.
+- Compilation and execution of Java test cases, including additional support for specific module testing.
+- ~~Integration with OpenAI for advanced code analysis and grading.~~
+- **Integration with Google's Generative AI for advanced code analysis and scoring, based on PDF rubrics.**
 - Support for both manual and automated test case addition.
-- Clear and colored console output for easy result interpretation.
-- Progress tracking during file extraction and grading.
+- Clear and colored console output for easy result interpretation using `chalk`.
+- Progress tracking during file extraction and grading with an improved `cli-progress` bar.
 
 ## Prerequisites
 
